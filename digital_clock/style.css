@@ -1,0 +1,25 @@
+body {
+    background: black;    
+}
+
+.container {
+    background: black;
+    color: white;
+    text-align: center;
+    /* margin-top: 280px; */
+}
+
+#hms {
+    font-size: 100px;
+    font-weight: 300;
+}
+
+#date {
+    font-size: 70px;
+}
+
+
+
+
+
+
